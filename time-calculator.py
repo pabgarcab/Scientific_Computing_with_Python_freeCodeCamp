@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 def add_time (start_Time, duration, day=""):
 
     day = day.lower()
