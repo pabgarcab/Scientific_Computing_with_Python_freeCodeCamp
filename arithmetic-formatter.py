@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 def arithmetic_arranger(lista_Operaciones, print_Resultados=False):
     
     if len(lista_Operaciones) > 5:
