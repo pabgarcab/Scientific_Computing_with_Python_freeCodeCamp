@@ -102,4 +102,3 @@ def arithmetic_arranger(lista_Operaciones, print_Resultados=False):
         junto = linea1+ "\n" + linea2  + "\n" + linea3 
     
     return junto
-    
